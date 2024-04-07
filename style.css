@@ -1,0 +1,136 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* *{
+    background-color: rgb(39, 36, 36);
+    color: white;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid white;
+    padding: 10px;
+}
+
+.logo{
+    width: 2px;
+    height: 100px; 
+}
+
+.Nav-bar > ul{
+    display: flex;
+    font-size: 30px;
+
+}
+
+.Nav-bar > ul > li{
+    padding: 20px ;
+    list-style: none;
+}
+
+.Image{
+    width: 250px;
+    height: 200px;
+
+}
+
+.res-card{
+    margin: 5px;
+    width: 250px;
+    padding: 2px;
+    
+}
+
+.Search{
+    padding: 5px;
+}
+
+.res-card:hover{
+    border: 2px solid rgb(255, 255, 255);
+    cursor: pointer;
+}
+
+.res-container{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.filter{
+    margin: 5px;
+    cursor: pointer;
+}
+
+.shimmer-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Shimmer-card{
+    width:250px;
+    height: 400px;
+    margin: 5px;
+    background-color: #4a4843;
+}
+
+.Login{
+    padding: 10px 30px;
+    cursor: pointer;
+}
+
+.Filter{
+    display: flex;
+}
+.search{
+    margin: 5px;
+}
+
+.user-card{
+    padding: 5px;
+    border: 2px solid black;
+    margin: 1px;
+    /* display: flex; */
+/* }  */
